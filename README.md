@@ -1,6 +1,6 @@
 # Get-WiFiPasswords
 
-PowerShell script for getting stored Wi-Fi passwords from netsh
+PowerShell script for getting stored Wi-Fi passwords from netsh on a domain joined endpoint. You must be able to reach endpoint via PS Remoting to use this script.
 
 Usage:
 
